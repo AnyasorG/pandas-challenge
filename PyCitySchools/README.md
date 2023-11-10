@@ -4,7 +4,6 @@ This project provides an analysis of district-wide standardized test results, in
 - [Prerequisites](#prerequisites)
 - [How to Use the Jupyter Notebook](#how-to-use-the-jupyter-notebook)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 - [Code Source](#code-source)
 - Written Report(#written report)
 ## Prerequisites
